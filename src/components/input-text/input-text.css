@@ -1,0 +1,9 @@
+.inputtext{
+    margin-top: 20px;
+    padding: 10px 15px;
+    font-size: 2em;
+    border: 1px solid dimgray;
+    border-radius: 8em;
+    background-color: #dddcdc;
+    text-align: center;
+}
