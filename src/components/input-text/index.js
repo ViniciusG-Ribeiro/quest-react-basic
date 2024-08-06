@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import './input-text.css'
-import TextTittle from "../text-tittle/text-tittle";
+import './index.css'
+import TextTittle from "../text-tittle";
 
 const InputText = () =>{
     

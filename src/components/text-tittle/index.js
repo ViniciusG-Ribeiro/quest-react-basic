@@ -1,13 +1,11 @@
 import React from "react";
-import './text-tittle.css'
+import './index.css'
 
 const TextTittle = (props) =>{
 
-    return(
-        <div className="container-text">
+    return <div className="container-text">
             <h1 style={{color: props.color}} >{props.tittle}</h1>
         </div>
-    )
 }
 
 TextTittle.defaultProps = {

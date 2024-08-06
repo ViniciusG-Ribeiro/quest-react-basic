@@ -1,7 +1,7 @@
 import './App.css';
-import Button from './components/button/button';
-import InputText from './components/input-text/input-text';
-import TextTittle from './components/text-tittle/text-tittle';
+import Button from './components/button-alert';
+import InputText from './components/input-text';
+import TextTittle from './components/text-tittle';
 
 
 function App() {
